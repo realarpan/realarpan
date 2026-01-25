@@ -22,8 +22,6 @@
     <p style="color: rgba(255,255,255,0.9); margin: 5px 0 0 0;">Scaling AI products & ML pipelines</p>
   </div>
 </div>
-<br/>
-<br/>
 
 ## Portfolio
 <div align="center">
