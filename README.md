@@ -3,7 +3,6 @@
 # ✨ Arpan
 
 <div align="center">
-
 <br/>
 
 ### Software Engineer specializing in AI/ML
