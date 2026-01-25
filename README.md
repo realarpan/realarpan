@@ -15,14 +15,6 @@
 <br/>
 <br/>
 
-<!-- 3D CSS Art -->
-<div style="perspective: 1000px;">
-  <div style="transform: rotateX(15deg) rotateY(-15deg); background: linear-gradient(45deg, #6366f1, #8b5cf6, #a855f7); padding: 20px; border-radius: 15px; box-shadow: 0 25px 50px rgba(99, 102, 241, 0.3);">
-    <h3 style="color: white; margin: 0;">🎯 Currently focused on</h3>
-    <p style="color: rgba(255,255,255,0.9); margin: 5px 0 0 0;">I build fast, scalable systems. Low-level infrastructure, performance optimization, and production-ready tools.</p>
-  </div>
-</div>
-
 ## Portfolio
 <div align="center">
 
