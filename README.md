@@ -1,4 +1,4 @@
-# ✨ Gaurav
+# ✨ Arpan
 
 <div align="center">
 
@@ -28,8 +28,8 @@
 
 <div align="center">
 
-<a href="https://xinacy.com" target="_blank">
-  <img src="https://img.shields.io/badge/xinacy.com-Visit%20Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
+<a href="https://arpanx.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/arpanx.vercel.app-Visit%20Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
@@ -40,13 +40,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Xinacy&theme=github-dark&hide_border=true" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=realarpan&theme=github-dark&hide_border=true" alt="Activity Graph"/>
 
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Xinacy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xinacy&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=realarpan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realarpan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170"/>
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center"></div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xinacy&theme=github_dark" alt="Profile Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realarpan&theme=github_dark" alt="Profile Summary"/>
 
 </div>
 
@@ -68,7 +68,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Xinacy&style=for-the-badge&color=6366f1" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=realarpan&style=for-the-badge&color=6366f1" alt="Profile views" />
 
 <br/>
 
